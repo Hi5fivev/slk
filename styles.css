@@ -3,7 +3,7 @@ body{
     background: black;
 }
 header{
-    border: solid 2px cyan;
+    border: solid 2px rgb(0, 51, 255);
     padding: 20px;
     font-size: 32px;
     color: white
