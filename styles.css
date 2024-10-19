@@ -1,15 +1,16 @@
-body{
+body {
     color: white;
     background: black;
 }
-header{
+
+header {
     border: solid 2px rgb(0, 51, 255);
     padding: 20px;
     font-size: 32px;
     color: white
 }
 
-section{
+section {
     background: white;
     padding-bottom: 80px;
     padding-top: 80px;
