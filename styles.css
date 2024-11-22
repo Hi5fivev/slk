@@ -2,24 +2,24 @@ body {
     color: whitesmoke;
     background: orange;
     margin: 0px;
-   
+
     .comic-neue-regular {
         font-family: "Comic Neue", cursive;
         font-weight: 400;
         font-style: normal;
-      }
+    }
 }
 
 header {
     border-bottom: solid 6px orange;
     padding: 20px;
     font-size: 32px;
-    color: rgb(0,150,163);
+    color: rgb(0, 150, 163);
     background: whitesmoke;
 }
 
 .chamada {
-    background: rgb(0,150,163);
+    background: rgb(0, 150, 163);
     padding-bottom: 100px;
     padding-top: 80px;
     display: flex;
@@ -49,20 +49,23 @@ p {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: -14px;
-    background: rgb(0,150,163);
+    background: rgb(0, 150, 163);
 }
+
 .categoria2 {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: -14px;
-    background: rgb(0,150,163);
+    background: rgb(0, 150, 163);
 }
+
 .categoria3 {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: -14px;
-    background: rgb(0,150,163);
+    background: rgb(0, 150, 163);
 }
+
 .categoria-videos img {
     opacity: 0.7;
     height: 200px;
@@ -70,7 +73,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(0,150,163);
+    border: 3px solid rgb(0, 150, 163);
 }
 
 .categoria h2 {
