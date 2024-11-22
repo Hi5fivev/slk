@@ -45,7 +45,13 @@ p {
     margin-top: 0px;
 }
 
-.categoria {
+.categoria1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: -14px;
+    background: rgb(0,150,163);
+}
+.categoria2 {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: -14px;
