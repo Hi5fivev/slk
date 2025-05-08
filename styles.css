@@ -1,6 +1,6 @@
 body {
-    color: whitesmoke;
-    background: orange;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 0, 0);
     margin: 0px;
 
     .comic-neue-regular {
@@ -11,11 +11,11 @@ body {
 }
 
 header {
-    border-bottom: solid 6px orange;
+    border-bottom: solid 6px rgb(255, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color: rgb(0, 150, 163);
-    background: whitesmoke;
+    color: rgb(255, 0, 0);
+    background: rgb(0, 0, 0);
 }
 
 .chamada {
